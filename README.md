@@ -61,3 +61,6 @@ Este jogo está disponível para **Windows** (x64). Você não precisa ter a Uni
 - **Processador:** i3 ou equivalente
 - **Memória:** 4GB RAM
 - **Placa de Vídeo:** Integrada ou Dedicada com suporte a DX11
+
+---
+Desenvolvido por **Enrique Ferreira da Silva** com auxílio do Professor Henrique Morata (Curso Alura).
